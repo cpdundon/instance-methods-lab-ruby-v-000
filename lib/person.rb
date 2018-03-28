@@ -1,9 +1,9 @@
 class Person()
-  def speak()
+  def talk()
     puts "Hello World!"
   end
   
-  def sit()
-    puts "The dog is sitting"
+  def walk()
+    puts "The person is walking"
   end
 end
